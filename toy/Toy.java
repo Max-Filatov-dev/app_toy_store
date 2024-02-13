@@ -1,3 +1,5 @@
+package toy;
+
 public class Toy {
 
     private int id;
